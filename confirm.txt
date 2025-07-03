@@ -1,0 +1,3 @@
+linear search
+binary search
+selection sort
